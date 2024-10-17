@@ -1,0 +1,12 @@
+//program #04: price of apple
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    flout number1, number2;
+    cout<<"quantity of apple:";
+    cin>>number1;
+    cout<<"price per kilogram of apple:";
+    cin>>number2;
+    cout<<"the price of apple is"<<number1 * number2;

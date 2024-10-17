@@ -1,0 +1,20 @@
+//program #05: parking fee calculator
+#include <iostream>
+using namespace std;
+
+int main() {
+    int exittime, emtrytime,period;
+    float charge;
+    cout<<"please enter your time:";
+    cin>>entrytime
+    cout<<"please enter your exit time:";
+    cin>>exittime;
+
+    period =e exittime - entrytime
+    if(period > 1)
+     charge = (period) + 1
+    else
+     charge = 2
+
+    cout<<"the charge for your parking is"<,charge;
+}

@@ -1,0 +1,14 @@
+//proggram #02: sum of two number
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    int number1, number, result;
+    cout<<"please enter your first number:";
+    cin>>number1; // get an integer value from user
+    cout<<"please enter your secont number :":
+    cin>>number2;
+    result=number1 + number2; ?? add the two number and store the value to result variable
+    cout<<"sum of the two number is "<<result;
+}
